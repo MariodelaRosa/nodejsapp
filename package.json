@@ -1,0 +1,27 @@
+{
+  "name": "hola-mundo-nodejs",
+  "version": "1.0.0",
+  "description": "Es una app Hello World en nodejS",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "^14.8.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariodelaRosa/nodejsapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariodelaRosa/nodejsapp/issues"
+  },
+  "homepage": "https://github.com/MariodelaRosa/nodejsapp#readme"
+}
